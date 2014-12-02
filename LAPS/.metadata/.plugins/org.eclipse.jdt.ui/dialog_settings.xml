@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item value="C:\Users\Ashwin\Downloads" key="org.eclipse.jdt.ui.lastextjar"/>
+	<section name="JavaBuildConfigurationBlock">
+		<item value="false" key="expanded2"/>
+		<item value="false" key="expanded1"/>
+		<item value="true" key="expanded0"/>
+	</section>
 	<section name="ClasspathContainerSelectionPage">
 		<item value="9" key="index"/>
 	</section>
