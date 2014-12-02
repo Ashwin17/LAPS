@@ -1,0 +1,29 @@
+.header
+{
+    top: 1px;
+   
+    text-align: center;
+    color: #000000;
+    font-size: 40px;
+    height: 70px;
+    border-style:none; 
+    border-color:white;
+    position: relative;
+    background-color: white;
+    font-family: times new roman;
+    font-style: oblique;
+
+}
+
+.alignment
+{
+    margin-left: 125px;
+    margin-right: 125px;
+    
+}
+.wordwrap
+{
+    white-space: nowrap;
+    margin-left: 2%;
+    margin-right: 2%;
+}

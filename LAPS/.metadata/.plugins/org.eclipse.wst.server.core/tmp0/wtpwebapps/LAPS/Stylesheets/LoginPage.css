@@ -1,0 +1,23 @@
+
+.login
+{
+  	position: absolute;
+	margin-top: 150px;
+	margin-left: 400px;
+	width: auto;
+	height: auto;
+}
+
+.buttons
+{
+    margin-top: -34px;
+    margin-left: 110px;
+    
+}
+
+
+.shift-down
+{
+    margin-top: 50px;
+    margin-left: -50px;
+}
