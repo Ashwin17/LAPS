@@ -3,7 +3,3 @@ C:\Users\Ashwin\Desktop\LAPS\LAPS\.metadata\.plugins\org.eclipse.jst.jsp.core\js
 \LAPS\src
 C:\Users\Ashwin\Desktop\LAPS\LAPS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1537762669.index
 \LAPS\src
-C:\Users\Ashwin\Desktop\LAPS\LAPS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2062583306.index
-\LAPS\src
-C:\Users\Ashwin\Desktop\LAPS\LAPS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2133156701.index
-\LAPS\src
